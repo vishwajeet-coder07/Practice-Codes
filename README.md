@@ -1,2 +1,2 @@
-# Practice-HTML-code
-this html code use for revision
+# Practice-codes
+for revision
