@@ -15,3 +15,5 @@ console.log(a);
 console.log (b)
 
 // Primitive data type-:
+// uploaded on github
+
