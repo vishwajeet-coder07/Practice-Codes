@@ -9,11 +9,7 @@ console.log(a);
  let b = 30;
  const c = "vishwajeet Singh chauhan";// const does not change throughtout the code
  {
-    let b = 'this';
+    let b = "this";
     console.log(b) //box vlaue print first then global value
  }
 console.log (b)
-
-// Primitive data type-:
-// uploaded on github
-
