@@ -26,5 +26,5 @@ const dictionary= {
     howdah: "Start each day with the Word of the Day in your inbox!\n",
     yakka: " work, especially work hard\n",
 }
-
-console.log (dictionary)
+console.log (dictionary.yakka);
+console.log (dictionary);

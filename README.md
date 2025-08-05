@@ -1,2 +1,0 @@
-# Practice-codes
-for revision
