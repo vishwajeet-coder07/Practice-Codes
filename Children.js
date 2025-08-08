@@ -1,6 +1,7 @@
 console.log(document.body.firstChild); // Logs the first child of the document
 //node name is text node
 console.log(document.body.querySelector('.highlight')); // Logs the first element with class 'highlight'
+
 console.log(typeof(document.body.firstChild)); // Logs the type of the element with class 'highlight'
 console.log(document.body.lastChild); // Logs the last child of the document
 console.log(document.body.firstElementChild); // Logs the first element child of the body

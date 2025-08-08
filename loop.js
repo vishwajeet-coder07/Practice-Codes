@@ -27,6 +27,7 @@ for ( let a in marks){
 for ( let b of "Rajput"){
     console.log(b);
 }
+// give the characters of the string one by one
 // for -of loop is used to iterate over iterable objects like arrays, strings, etc.**
     
 //while loop:
