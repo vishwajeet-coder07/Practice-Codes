@@ -4,9 +4,11 @@
 // console.dir(y)
 // console.log(document.body.firstChild.nodeName) 
 // console.log(document.body.firstElementChild.nodeName)
+let first = document.getElementById('first');
 first.hidden = false// hidden is used to hide the element
 console.log(first.innerHTML)
 first.innerHTML = "<i>hey I am italic</i>"
+console.log(first.innerHTML)
 console.log(first.outerHTML)
 first.outerHTML = "<div id='first'>hey</div>"
 console.log(first.outerHTML)
