@@ -10,7 +10,7 @@ let y = function(e) {
   console.log(e)
   alert("Hello World2!")
 }
-
+let btn = document.getElementById('btn');
 btn.addEventListener('click', x)
 btn.addEventListener('click', y)
 
